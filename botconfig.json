@@ -1,0 +1,13 @@
+{
+    "prefix": "!",
+    "badWords": [
+        "badword",
+        "badandy"
+    ],
+    "allowUrl": [
+        "Santa Claus Squad",
+        "Developer",
+        "Administrator",
+        "Member"
+    ]
+}

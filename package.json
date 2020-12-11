@@ -1,0 +1,22 @@
+{
+  "name": "ktd-bot",
+  "version": "1.0.0",
+  "description": "KDT Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "author": "Andy",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "canvas": "^2.6.1",
+    "discord.js": "^12.5.1",
+    "file-system": "^2.2.2",
+    "os": "^0.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
